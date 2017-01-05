@@ -1,0 +1,42 @@
+body{
+  background-color: silver;
+}
+
+img{
+  width:100%;
+}
+
+.column{
+  width:23%;
+  float:left;
+  margin: 2px;
+  padding: 4px;
+}
+
+p{
+  font-size: 20px
+}
+
+.one{
+  border: 10px solid red;
+  background-color: green;
+  font-family: cursive;
+}
+
+.two{
+  border: 10px solid blue;
+  background-color: orange;
+  font-family: fantasy;
+}
+
+.three{
+  border: 10px solid black;
+  background-color: pink;
+  font-family: monospace;
+}
+
+.four{
+  border: 10px solid purple;
+  background-color: yellow;
+  font-family: serif;
+}
